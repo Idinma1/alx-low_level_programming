@@ -1,7 +1,7 @@
 #includeb <studio.h>
 /**
- * main - print a line of xod3 using puts 
- * 
+ * main - print a line of xod3 using puts
+ *
  * Return: 0
  */
 int main(void)
